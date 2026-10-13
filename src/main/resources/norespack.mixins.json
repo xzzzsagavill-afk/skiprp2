@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.example.norespack.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "ClientCommonPacketListenerImplMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
